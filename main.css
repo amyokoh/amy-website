@@ -1,5 +1,5 @@
 h2{font-size: 30px;
-color:black;
+color:blue;
 text-align: center;
 }
 
@@ -8,7 +8,7 @@ h3{
 }
 
 body{
-    background-color: whitesmoke;
+    background-color: lightblue;
 }
 
 {
@@ -20,4 +20,15 @@ p{
 }
 p{font-size:20px
 
+}
+h1{
+  color:purple;
+  text-align:center;
+}
+h3{
+  color:blueviolet
+}
+
+.image{
+  width:300%;
 }
